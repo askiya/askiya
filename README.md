@@ -11,33 +11,38 @@
 
 <br>
 
-### 👨‍💻 Visi & Misi
+### 🎯 Visi & Misi
 <p align="center">
-  <b>Visi:</b> "Menjadi ekosistem digital kreatif terpercaya yang menghadirkan berbagai solusi teknologi dan visual untuk membantu individu, organisasi, dan bisnis berkembang di era digital."
+  <b>Visi:</b> "menjadi ekosistem digital kreatif terpercaya yang menghadirkan berbagai solusi teknologi dan visual untuk membantu individu, organisasi, dan bisnis berkembang di era digital."
 </p>
-<p align="center">
-  <b>Misi:</b> Menyediakan layanan digital berkualitas, membangun sistem praktis & efisien, memberikan layanan profesional harga terjangkau, mengembangkan ekosistem terintegrasi, dan terus berinovasi.
-</p>
+<details>
+  <summary><b>Misi</b> (Klik untuk Menampilkan)</summary>
+  <ul>
+    <li>Menyediakan berbagai layanan digital berkualitas mulai dari pengembangan web apps, desain visual, hingga solusi kreatif lainnya.</li>
+    <li>Membangun sistem dan produk digital yang praktis, efisien, dan mudah digunakan oleh berbagai kalangan.</li>
+    <li>Memberikan layanan profesional dengan harga yang terjangkau tanpa mengurangi kualitas.</li>
+    <li>Mengembangkan ekosistem layanan digital yang terintegrasi untuk mendukung kebutuhan kreatif dan teknologi klien.</li>
+    <li>Terus berinovasi dalam teknologi, desain, dan solusi digital agar selalu relevan dengan perkembangan zaman.</li>
+  </ul>
+</details>
 
 <br>
 
-### Cerita di Balik Santriman Studios
+### 📖 Cerita di Balik Santriman Studios
 
-Setiap karya besar biasanya tidak lahir dari kemudahan. Ia lahir dari proses panjang, dari kegagalan, dari belajar tanpa henti, dan dari mimpi yang tidak pernah berhenti diperjuangkan.
+> Setiap karya besar biasanya tidak lahir dari kemudahan. Ia lahir dari proses panjang, dari kegegalan, dari belajar tanpa henti, dan dari mimpi yang tidak pernah berhenti diperjuangkan.
 
-> Santriman Studios bermula dari sesuatu yang sangat sederhana. Tidak ada kantor besar. Tidak ada tim puluhan orang. Bahkan tidak ada fasilitas mewah. Yang ada hanyalah sebuah laptop sederhana, koneksi internet yang kadang tidak stabil, dan satu hal yang jauh lebih kuat dari semuanya: tekad untuk terus belajar dan berkarya.
+> Santriman Studios bermula dari sesuatu yang sangat sederhana. Tidak ada kantor besar. Tidak ada tim puluhan orang. Bahkan tidak ada fasilitas mewah seperti yang dimiliki banyak perusahaan digital lainnya. Yang ada hanyalah sebuah laptop sederhana, koneksi internet yang kadang tidak stabil, dan satu hal yang jauh lebih kuat dari semuanya: **tekad untuk terus belajar dan berkarya**.
 
-Di awal perjalanan, semuanya tidak mudah. Belajar desain, coding, mencoba teknologi baru secara otodidak. Berjam-jam dihabiskan hanya untuk memahami satu konsep kecil, memperbaiki satu bug sederhana, atau mencoba teknik desain baru. Ada banyak momen dimana rasanya ingin berhenti.
+---
 
-<br>
-<p align="center"><b>Fase 3M: Makasih Mas, Makasih</b></p>
-<br>
+### Fase 3M: Makasih Mas, Makasih
 
-Banyak orang datang meminta dibuatkan desain. Diskusi panjang. Ide dituangkan. Waktu dicurahkan. Bahkan revisi dikerjakan. Namun pada akhirnya, yang didapat hanyalah kalimat: "Makasih mas ya," atau "Makasih mas, nanti saya kabari lagi," tanpa kelanjutan, tanpa proyek, tanpa bayaran.
+> Banyak orang yang datang meminta dibuatkan desain. Diskusi panjang. Ide dituangkan. Waktu dicurahkan. Bahkan terkadang revisi sudah dikerjakan. Namun pada akhirnya, yang didapat hanyalah kalimat: "Makasih mas ya," atau "Makasih mas, nanti saya kabari lagi," tanpa kelanjutan, tanpa proyek, tanpa bayaran.
 
-<br>
-<p align="center"><b>Alih-alih Menyerah, Kami Memilih untuk Berkembang</b></p>
-<br>
+---
+
+### Alih-alih Menyerah, Kami Memilih untuk Berkembang
 
 Sedikit demi sedikit, kemampuan mulai bertumbuh. Dari desain visual, merambah ke pengembangan website, lalu ke web apps berbasis Google Apps Script, hingga berbagai solusi digital lainnya. Dunia digital penuh peluang, namun banyak orang kesulitan mendapatkan solusi digital yang praktis dan terjangkau. Dari situlah muncul visi yang lebih besar: **membangun sebuah ekosistem digital.**
 
@@ -63,7 +68,7 @@ Sebuah tempat dimana berbagai kebutuhan digital dapat ditemukan dalam satu platf
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=askiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik Profil Lengkap askiya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=askiya&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik Profil Lengkap askiya" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askiya&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman Teratas" />
 </p>
 
